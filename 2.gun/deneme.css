@@ -1,0 +1,54 @@
+h1{
+    color:brown;
+    text-align: center;
+    font-style: italic;
+}
+div {
+    font-size: larger;
+    color:chartreuse;
+    background-color:red;
+    width: 100px;
+    height: 100;
+    border: 3px solid black;
+    border-radius: 15px;
+    box-shadow: 15px 10px 5px 0 brown;
+  
+   
+}
+.birinci{
+    color: red;
+    background-color: yellow;
+    
+      width: 200px;
+    height: 200;
+    
+}
+.ikinci{
+    color:burlywood;
+    background-color: blue;
+    width: 300px;
+    height: 300;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 100;
+}
+
+.tasiyici{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.container{
+    
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color:rgb(166, 130r, 223) ;
+    margin: 100px;
+    padding: 100px;
+
+}
